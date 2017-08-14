@@ -53,6 +53,7 @@ knit        : slidify::knit2slides
 ## The Inventory Optimizer Is Available For Evaluation
 
 - You can try it [here](https://leonardanalytics.shinyapps.io/seasonalinventoryoptimizer/)
+- The code is available on [GitHub](https://github.com/dleonard1210/InventoryOptimizer)
 - Go to the Help tab for definitions of the inputs and other notes
 - Use the sliders to adjust input parameters and observe the effect on the optimal inventory level
 - Ideas for future enhancements:
